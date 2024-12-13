@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94b6ac16.css",
+    "main.js": "/static/js/main.14ea62f3.js",
+    "static/js/453.ed86ef3f.chunk.js": "/static/js/453.ed86ef3f.chunk.js",
+    "static/media/header_chiz.png": "/static/media/header_chiz.4fe72287985717c30988.png",
+    "static/media/whatischiz_img.png": "/static/media/whatischiz_img.e12c33bb07de805223b7.png",
+    "static/media/start_img.png": "/static/media/start_img.9541ba70b193eb3c6297.png",
+    "static/media/roadmap_img.png": "/static/media/roadmap_img.00d9bbb0aa0d4aee3e8b.png",
+    "static/media/-chiz-13-12-2024.png": "/static/media/-chiz-13-12-2024.2115fecd40efb420b758.png",
+    "static/media/Token-13-12-2024 (2).png": "/static/media/Token-13-12-2024 (2).465864ab066dd2d27ed6.png",
+    "static/media/Total-supply-13-12-2024.png": "/static/media/Total-supply-13-12-2024.fad630a3aed0466c71c9.png",
+    "static/media/Contract-13-12-2024.png": "/static/media/Contract-13-12-2024.81d092348b575444f7ba.png",
+    "static/media/roadmap.png": "/static/media/roadmap.7c21476fe45e72fe746e.png",
+    "static/media/header_title.png": "/static/media/header_title.5fe6126be78b8613728b.png",
+    "static/media/about.png": "/static/media/about.9a87938847a37fe23cb6.png",
+    "static/media/start.png": "/static/media/start.df36173cce77f9443e46.png",
+    "static/media/Снимок-removebg-preview.png": "/static/media/Снимок-removebg-preview.620cfe2a5a201b9a7ede.png",
+    "static/media/home.png": "/static/media/home.e94cdcf5f60776a731b9.png",
+    "static/media/zvezdnoe_nebo_nebo.jpg": "/static/media/zvezdnoe_nebo_nebo.de0c622065baea206d8b.jpg",
+    "static/media/What_is_CHIZ.png": "/static/media/What_is_CHIZ.eca8bfd415662fab446f.png",
+    "static/media/start_tokinomic.png": "/static/media/start_tokinomic.8ba4d031d2c747832371.png",
+    "static/media/roadmap_title.png": "/static/media/roadmap_title.f6bb8490e9b66afc8c2f.png",
+    "static/media/start_title.png": "/static/media/start_title.c58bedd9647749154e4a.png",
+    "static/media/ca.png": "/static/media/ca.ae7791edf7d26b7c786d.png",
+    "static/media/chiz.png": "/static/media/chiz.23d71a8229c5ee2f9a91.png",
+    "index.html": "/index.html",
+    "main.94b6ac16.css.map": "/static/css/main.94b6ac16.css.map",
+    "main.14ea62f3.js.map": "/static/js/main.14ea62f3.js.map",
+    "453.ed86ef3f.chunk.js.map": "/static/js/453.ed86ef3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b6ac16.css",
+    "static/js/main.14ea62f3.js"
+  ]
+}
